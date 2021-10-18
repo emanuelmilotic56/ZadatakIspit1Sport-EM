@@ -1,0 +1,7 @@
+C:\Users\Učenik02\source\repos\ZadatakIspit1-EM\ZadatakIspit1-EM\bin\Debug\ZadatakIspit1-EM.exe.config
+C:\Users\Učenik02\source\repos\ZadatakIspit1-EM\ZadatakIspit1-EM\bin\Debug\ZadatakIspit1-EM.exe
+C:\Users\Učenik02\source\repos\ZadatakIspit1-EM\ZadatakIspit1-EM\bin\Debug\ZadatakIspit1-EM.pdb
+C:\Users\Učenik02\source\repos\ZadatakIspit1-EM\ZadatakIspit1-EM\obj\Debug\ZadatakIspit1-EM.csprojAssemblyReference.cache
+C:\Users\Učenik02\source\repos\ZadatakIspit1-EM\ZadatakIspit1-EM\obj\Debug\ZadatakIspit1-EM.csproj.CoreCompileInputs.cache
+C:\Users\Učenik02\source\repos\ZadatakIspit1-EM\ZadatakIspit1-EM\obj\Debug\ZadatakIspit1-EM.exe
+C:\Users\Učenik02\source\repos\ZadatakIspit1-EM\ZadatakIspit1-EM\obj\Debug\ZadatakIspit1-EM.pdb
